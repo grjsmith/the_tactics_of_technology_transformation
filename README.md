@@ -1,5 +1,5 @@
-# Practical Strategy For Technologists
+# The Tactics of Technology Transformation
 
-A guide to strategy and using strategy aimed at helping people working in product and technology.
+A guide to tactics and using tactics to transform technology organizations
 
 <img src="images/LICENSE.png" ALT="CC BY-NC-ND 4.0 Attribution-NonCommercial-NoDerivatives 4.0 International">
